@@ -28,7 +28,7 @@ SmartDrive Organizer is a Windows desktop application that helps you organize me
 ## 💻 Developer Setup
 
 ```bash
-git clone https://github.com/yourusername/smartdrive-organizer
-cd smartdrive-organizer
+git clone https://github.com/RaviadityaDubey/SmartDriveOrganizer-
+cd SmartDriveOrganizer-
 pip install -r requirements.txt
 python main.py
